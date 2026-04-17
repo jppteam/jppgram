@@ -16,8 +16,6 @@ full documentation is maintained in the [wiki](https://github.com/jppteam/jppgra
 
 > pages may be updated or added as the platform evolves.
 
-more pages will be added over time as the platform evolves.
-
 ## contributing
 
 spotted something outdated or missing? feel free to open an issue or submit a pull request. for larger changes, it's best to open an issue first to discuss what you'd like to change.
